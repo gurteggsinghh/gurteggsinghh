@@ -1,33 +1,61 @@
-# Hi, I'm Gurteg Singh Setia 👋
+<div align="center">
 
-🎓 B.Tech Electronics & Communication Engineering Student at NMIT Bengaluru
+# Gurteg Singh Setia
 
-💻 Learning Python, C, MATLAB, HTML & CSS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Student+%40+NMIT+Bengaluru;Learning+Python+%7C+C+%7C+MATLAB;Exploring+Embedded+Systems+and+AI%2FML;Building+Projects+and+Solving+Problems" />
 
-🌱 Passionate about Embedded Systems, Semiconductor Technology, AI/ML, and Software Development.
+<br>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=gurteggsinghh\&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/gurteggsinghh?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-gurteggsinghh-orange?style=for-the-badge\&logo=leetcode)
 
-## 🚀 Current Focus
-
-* Embedded Systems Fundamentals
-* Semiconductor Devices & Digital Electronics
-* Python Programming
-* Data Structures & Algorithms
-* AI & Machine Learning
-* Front-End Web Development
+</div>
 
 ---
 
-## 📂 Projects
+## 👨‍💻 About Me
+
+🎓 First-Year B.Tech Electronics & Communication Engineering Student at NMIT Bengaluru
+
+💡 Interested in:
+
+* Embedded Systems
+* Semiconductor Technology
+* Artificial Intelligence & Machine Learning
+* Web Development
+
+🚀 Currently building my programming portfolio through LeetCode, GitHub projects, and engineering-focused learning.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Engineering Tools
+
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## 🚀 Projects
 
 ### Python Programming Portfolio
 
-A collection of Python programs focused on problem-solving, logic building, and programming fundamentals.
+Collection of Python programs covering problem-solving, logic building, and programming fundamentals.
 
 ### MATLAB Engineering Simulations
 
-MATLAB-based exercises and simulations for engineering mathematics and signal processing concepts.
+Engineering mathematics and signal-processing exercises completed using MATLAB.
 
 ### Front-End Web Development
 
@@ -35,47 +63,53 @@ Responsive web pages built using HTML5 and CSS3.
 
 ### LeetCode Solutions
 
-Repository containing my solutions to LeetCode problems in C and Python.
+Repository containing my accepted LeetCode solutions.
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Data Structures & Algorithms
+  - Embedded Systems
+  - Semiconductor Devices
+  - AI & Machine Learning
+
+building:
+  - LeetCode Solutions Repository
+  - Python Programming Portfolio
+
+exploring:
+  - IoT
+  - Communication Systems
+  - Open Source
+
+goal:
+  - Become a strong software and embedded systems engineer
+```
 
 ---
 
 ## 🤝 Volunteer Experience
 
-**Social Media Team Member — REACH NGO**
+### REACH NGO — Social Media Team Member
 
-* Create educational and awareness content
-* Support social media campaigns
-* Collaborate with volunteers on outreach initiatives
-
----
-
-## 🛠️ Skills
-
-**Programming Languages**
-
-* C
-* Python
-
-**Engineering Tools**
-
-* MATLAB
-
-**Web Technologies**
-
-* HTML5
-* CSS3
-
-**Areas of Interest**
-
-* Embedded Systems
-* Semiconductor Technology
-* AI & Machine Learning
-* IoT
-* Communication Systems
+* Content creation and campaign support
+* Educational outreach initiatives
+* Cross-functional volunteer collaboration
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics
+
+![Gurteg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurteggsinghh\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurteggsinghh\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/gurteg-singh-a44538243
 * GitHub: https://github.com/gurteggsinghh
@@ -83,23 +117,4 @@ Repository containing my solutions to LeetCode problems in C and Python.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurteggsinghh\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurteggsinghh\&layout=compact)
-
----
-
-## 🎯 2026 Goals
-
-* Solve 100+ LeetCode problems
-* Build 10+ programming projects
-* Learn Data Structures & Algorithms
-* Develop embedded systems projects
-* Contribute to open-source projects
-
----
-
-⭐ Thanks for visiting my profile!
-
+⭐ Building one project, one problem, and one skill at a time.
