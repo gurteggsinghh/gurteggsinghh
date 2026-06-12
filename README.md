@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Gurteg Singh Setia 👋
 
-<!--
-**gurteggsinghh/gurteggsinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electronics & Communication Engineering Student at NMIT Bengaluru
 
-Here are some ideas to get you started:
+💻 Learning Python, C, MATLAB, HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Embedded Systems
+- Semiconductor Technology
+- AI & Machine Learning
+- Web Development
+
+## 🚀 Projects
+- Python Programming Portfolio
+- MATLAB Engineering Simulations
+- Front-End Web Development
+
+## 🤝 Volunteer Work
+Social Media Team Member at REACH NGO
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/gurteg-singh-a44538243
+- Email: gurteggsinghh@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurteggsinghh&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurteggsinghh&layout=compact)
+
+---
+⭐ Thanks for visiting my profile!
