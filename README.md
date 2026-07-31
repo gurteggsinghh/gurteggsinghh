@@ -1,40 +1,26 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Cyberpunk AI Banner">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋 I'm Gurteg Singh</h1>
+<h1 align="center">Hi 👋, I'm Gurteg Singh</h1>
 
 <h3 align="center">
 AI Builder • IT Intern @ Ajax Engineering • Electronics & Communication Engineering Student
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Solutions;Power+BI+Developer;Electronics+%26+Communication+Engineering+Student;Open+Source+Learner;Always+Building+Something+New+🚀">
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Building+AI+Projects;Power+BI+Developer;Learning+Embedded+Systems;Open+Source+Learner;Always+Shipping+Something+🚀">
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gurteggsinghh&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/gurteggsinghh?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/gurteggsinghh?style=for-the-badge&logo=github"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/gurteggsinghh">GitHub</a> •
-<a href="https://www.linkedin.com/in/gurteg-singh-a44538243">LinkedIn</a> •
-<a href="mailto:gurteggsinghh@gmail.com">Email</a>
-
+<img src="https://komarev.com/ghpvc/?username=gurteggsinghh&style=for-the-badge&color=0E75B6">
+<img src="https://img.shields.io/github/followers/gurteggsinghh?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/stars/gurteggsinghh?style=for-the-badge&logo=github">
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Gurteg Singh
@@ -42,16 +28,15 @@ Name: Gurteg Singh
 Education:
   B.Tech Electronics & Communication Engineering
 
-Current Position:
+Current Role:
   IT Intern @ Ajax Engineering
 
 Interests:
   - Artificial Intelligence
-  - Data Analytics
   - Power BI
-  - Embedded Systems
+  - Data Analytics
   - Automation
-  - Open Source
+  - Embedded Systems
 
 Currently Building:
   - AI Project Factory
@@ -61,7 +46,7 @@ Currently Building:
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -71,13 +56,13 @@ Currently Building:
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gurteggsinghh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gurteggsinghh&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurteggsinghh&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=gurteggsinghh&theme=tokyonight&hide_border=true">
 
 </p>
 
@@ -87,47 +72,17 @@ Currently Building:
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurteggsinghh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurteggsinghh&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📉 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurteggsinghh&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gurteggsinghh&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/gurteggsinghh/gurteggsinghh/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="./github-metrics.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurteggsinghh&theme=tokyo-night">
 
 </p>
 
@@ -138,9 +93,20 @@ Currently Building:
 | AI | Data | Engineering | Development |
 |----|------|-------------|-------------|
 | AI Agents | Power BI | Electronics | Python |
-| LLM Apps | SQL | Embedded Systems | Git |
+| LLM Applications | SQL | Embedded Systems | Git |
 | Automation | Excel | IoT | HTML/CSS |
 | Machine Learning | Analytics | MATLAB | GitHub |
+
+---
+
+# 🌱 Currently Learning
+
+- LangChain
+- FastAPI
+- Docker
+- PostgreSQL
+- Azure AI
+- Embedded AI
 
 ---
 
@@ -148,23 +114,10 @@ Currently Building:
 
 | Project | Description |
 |---------|-------------|
-| 🤖 AI Project Factory | Multi-Agent AI Automation Platform |
-| 📊 Power BI Dashboard | Interactive Business Intelligence Dashboards |
-| 🌐 Personal Portfolio | Responsive Developer Portfolio |
-| ⚡ Engineering Projects | Electronics, MATLAB & Embedded Systems |
-
----
-
-# 📚 Currently Learning
-
-- LangChain
-- FastAPI
-- Docker
-- PostgreSQL
-- Azure
-- Machine Learning
-- AI Automation
-- Embedded AI
+| 🤖 AI Project Factory | AI automation platform |
+| 📊 Power BI Dashboard | Business Intelligence dashboards |
+| 🌐 Portfolio Website | Personal portfolio |
+| 💻 Engineering Projects | Electronics & Embedded Systems |
 
 ---
 
@@ -190,8 +143,8 @@ Currently Building:
 
 <div align="center">
 
-## 🚀 "Build. Learn. Automate. Repeat."
+### 🚀 Build • Learn • Automate • Repeat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:00D4FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:00D4FF&height=120&section=footer">
