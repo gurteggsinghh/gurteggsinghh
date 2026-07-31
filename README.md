@@ -524,3 +524,6 @@ If you like my work, consider starring one of my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=160&section=footer"/>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gurteggsinghh/gurteggsinghh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
